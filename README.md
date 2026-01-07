@@ -1,6 +1,6 @@
 # Dashboard Courier en Excel
 <img width="1118" height="447" alt="image" src="https://github.com/user-attachments/assets/535787c9-45d1-4943-9ade-7556701178e7" />
-# 📊 Análisis de [Nombre del Proyecto / Ejemplo: Ventas y Comportamiento]
+
 
 ## Objetivo del Proyecto
 El propósito de este análisis fue identificar tendencias y mostrar el estado actual de un courier dentro de este conjunto de datos utilizando herramientas de análisis de datos para transformar cifras crudas.
