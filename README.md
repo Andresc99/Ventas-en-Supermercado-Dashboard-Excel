@@ -29,5 +29,5 @@ Para llegar a estos resultados, se aplicó el siguiente flujo de trabajo:
 
 ## Recomendaciones
 1. **Acción Inmediata:** Mantener y generar promociones o descuentos en regiones central y west debido a su alto retorno y volumen de ventas.
-2. ** Acciones a considerar:** promocionar metodos de envio como 'same day' o 'second class' ya que en promedio, existe un mayor volumen de compras siendo este ultimo de $247 
+2. **Acciones a considerar:** promocionar metodos de envio como 'same day' o 'second class' ya que en promedio, existe un mayor volumen de compras siendo este ultimo de $247 
 ---
